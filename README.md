@@ -1,9 +1,3 @@
-# Let's Go! React with Go Complete Fullstack App - TypeScript, React Query, MongoDB, ChakraUI
-
-![Demo App](https://i.ibb.co/JvRTWmW/Group-93.png)
-
-[Video Tutorial on Youtube](https://youtu.be/zw8z_o_kDqc)
-
 Some Features:
 
 -   ⚙️ Tech Stack: Go, React, TypeScript, MongoDB, TanStack Query, ChakraUI
